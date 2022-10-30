@@ -67,7 +67,7 @@ body {
 }
 .letter h1{
   font-weight: 700;
-  font-size: 75%;
+  font-size: 160%;
 }
 .letter p{
   color: var(--Grayishblue);
