@@ -67,11 +67,10 @@ body {
 }
 .letter h1{
   font-weight: 700;
+  font-size: 75%;
 }
 .letter p{
   color: var(--Grayishblue);
   font-weight: 400;
 }
-h1{
-  font-size: 
-}
+
